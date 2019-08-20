@@ -1,0 +1,6 @@
+projectKey=example
+serverUrl=http://localhost
+serverVersion=7.9.1.27448
+dashboardUrl=http://localhost/dashboard?id=example
+ceTaskId=AWywNsUMD_Gsxzj4AlOP
+ceTaskUrl=http://localhost/api/ce/task?id=AWywNsUMD_Gsxzj4AlOP

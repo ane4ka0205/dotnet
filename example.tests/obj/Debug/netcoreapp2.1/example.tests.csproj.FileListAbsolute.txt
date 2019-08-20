@@ -1,0 +1,17 @@
+/Users/anna.malanova/Desktop/sonarqube/dotnet1/example.tests/bin/Debug/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/anna.malanova/Desktop/sonarqube/dotnet1/example.tests/bin/Debug/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll
+/Users/anna.malanova/Desktop/sonarqube/dotnet1/example.tests/bin/Debug/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll
+/Users/anna.malanova/Desktop/sonarqube/dotnet1/example.tests/bin/Debug/netcoreapp2.1/example.tests.deps.json
+/Users/anna.malanova/Desktop/sonarqube/dotnet1/example.tests/bin/Debug/netcoreapp2.1/example.tests.runtimeconfig.json
+/Users/anna.malanova/Desktop/sonarqube/dotnet1/example.tests/bin/Debug/netcoreapp2.1/example.tests.runtimeconfig.dev.json
+/Users/anna.malanova/Desktop/sonarqube/dotnet1/example.tests/bin/Debug/netcoreapp2.1/example.tests.dll
+/Users/anna.malanova/Desktop/sonarqube/dotnet1/example.tests/bin/Debug/netcoreapp2.1/example.tests.pdb
+/Users/anna.malanova/Desktop/sonarqube/dotnet1/example.tests/bin/Debug/netcoreapp2.1/example.dll
+/Users/anna.malanova/Desktop/sonarqube/dotnet1/example.tests/bin/Debug/netcoreapp2.1/example.pdb
+/Users/anna.malanova/Desktop/sonarqube/dotnet1/example.tests/obj/Debug/netcoreapp2.1/example.tests.csprojAssemblyReference.cache
+/Users/anna.malanova/Desktop/sonarqube/dotnet1/example.tests/obj/Debug/netcoreapp2.1/example.tests.csproj.CoreCompileInputs.cache
+/Users/anna.malanova/Desktop/sonarqube/dotnet1/example.tests/obj/Debug/netcoreapp2.1/example.tests.AssemblyInfoInputs.cache
+/Users/anna.malanova/Desktop/sonarqube/dotnet1/example.tests/obj/Debug/netcoreapp2.1/example.tests.AssemblyInfo.cs
+/Users/anna.malanova/Desktop/sonarqube/dotnet1/example.tests/obj/Debug/netcoreapp2.1/example.tests.csproj.CopyComplete
+/Users/anna.malanova/Desktop/sonarqube/dotnet1/example.tests/obj/Debug/netcoreapp2.1/example.tests.dll
+/Users/anna.malanova/Desktop/sonarqube/dotnet1/example.tests/obj/Debug/netcoreapp2.1/example.tests.pdb

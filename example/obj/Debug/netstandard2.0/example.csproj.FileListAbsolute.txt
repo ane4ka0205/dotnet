@@ -1,0 +1,9 @@
+/Users/anna.malanova/Desktop/sonarqube/dotnet1/example/bin/Debug/netstandard2.0/example.deps.json
+/Users/anna.malanova/Desktop/sonarqube/dotnet1/example/bin/Debug/netstandard2.0/example.dll
+/Users/anna.malanova/Desktop/sonarqube/dotnet1/example/bin/Debug/netstandard2.0/example.pdb
+/Users/anna.malanova/Desktop/sonarqube/dotnet1/example/obj/Debug/netstandard2.0/example.csprojAssemblyReference.cache
+/Users/anna.malanova/Desktop/sonarqube/dotnet1/example/obj/Debug/netstandard2.0/example.csproj.CoreCompileInputs.cache
+/Users/anna.malanova/Desktop/sonarqube/dotnet1/example/obj/Debug/netstandard2.0/example.AssemblyInfoInputs.cache
+/Users/anna.malanova/Desktop/sonarqube/dotnet1/example/obj/Debug/netstandard2.0/example.AssemblyInfo.cs
+/Users/anna.malanova/Desktop/sonarqube/dotnet1/example/obj/Debug/netstandard2.0/example.dll
+/Users/anna.malanova/Desktop/sonarqube/dotnet1/example/obj/Debug/netstandard2.0/example.pdb
